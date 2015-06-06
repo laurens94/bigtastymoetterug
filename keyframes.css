@@ -1,0 +1,65 @@
+@keyframes headerslide {
+ 0% {
+   opacity: 0.0;
+   margin: -150px 0 150px 0;
+ }
+ 50% {
+   opacity: 0.0;
+   margin: -150px 0 150px 0;
+ }
+ 100% {
+   opacity: 1.0;
+   margin: 0px;
+ }
+}
+@keyframes body {
+ 0% {
+   opacity: 0.0;
+ }
+ 100% {
+   opacity: 1.0;
+ }
+}
+@keyframes content {
+ 0% {
+   opacity: 0.0;
+   transform: scale(0.8);
+ }
+ 100% {
+   opacity: 1.0;
+   transform: scale(1);
+ }
+}
+@keyframes textcontent {
+ 0% {
+   opacity: 0.0;
+ }
+ 50% {
+   opacity: 0.0;
+ }
+ 100% {
+   opacity: 1.0;
+ }
+}
+@keyframes wood {
+ 0% {
+   top: -500px;
+ }
+ 50% {
+   top: -500px;
+ }
+ 100% {
+   top: 238px;
+ }
+}
+@keyframes woodfade {
+ 0% {
+   opacity: 0.0;
+ }
+ 75% {
+   opacity: 0.0;
+ }
+ 100% {
+   opacity: 1.0;
+ }
+}

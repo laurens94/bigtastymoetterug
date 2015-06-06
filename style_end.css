@@ -1,0 +1,150 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video, input {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	outline: none;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Big Tasty moet terug stylesheet: */
+
+@font-face {
+	font-family: Commons;
+	src: url('Commons.TTF');
+}
+@font-face {
+	font-family: Splash;
+	src: url('Splash.TTF');
+}
+html {
+    height: 100%;
+}
+body{
+	background: #600100;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzYwMDEwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNhYTFlMWIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #600100 0%, #aa1e1b 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#600100), color-stop(100%,#aa1e1b));
+	background: -webkit-linear-gradient(top,  #600100 0%,#aa1e1b 100%);
+	background: -o-linear-gradient(top,  #600100 0%,#aa1e1b 100%);
+	background: -ms-linear-gradient(top,  #600100 0%,#aa1e1b 100%);
+	background: linear-gradient(top,  #600100 0%,#aa1e1b 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#600100', endColorstr='#aa1e1b',GradientType=0 );
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	font-family: Tahoma, Verdana, Geneva;
+	color: #fff;
+	font-size: 15px;
+	height: 100% \9; /* IE fix */
+	animation-name: body;
+	animation-duration: 2s;
+	animation-timing-function: ease;
+}
+
+#container{
+	margin: 0 auto;
+	margin-top: 40px;
+	background: url('img_end/bg.png');
+	background-size: cover;
+	width: 776px;
+	min-height: 615px;
+	text-align: center;
+	box-shadow: inset 0px 1px 1px #ffffff, 0px 0px 4px #000000;
+	padding: 10px;
+}
+#left{
+	float: left;
+}
+#right{
+	float: right;
+}
+#div1{
+	background: url(img_end/img1.png);
+	width: 214px;
+	height: 162px;
+}
+#div2{
+	background: url(img_end/img2.png);
+	width: 544px;
+	height: 201px;
+	position: relative;
+	left: -4px;
+}
+#social{
+	width: 202px;
+	height: 55px;
+	text-align: right;
+	padding: 5px;
+	position: relative;
+	top: 4px;
+}
+#div3{
+	background: url(img_end/img3.png);
+	width: 251px;
+	height: 251px;
+	position: relative;
+	top: 10px;
+	left: -4px;
+}
+#div4{
+	background: url(img_end/img4.png);
+	width: 223px;
+	height: 239px;
+	position: relative;
+	top: 10px;
+}
+#div5{
+	background: url(img_end/img5.png);
+	width: 295px;
+	height: 357px;
+	float: right;
+	position: relative;
+	top: 10px;
+}
+#div6{
+	float: left;
+	top: -80px;
+	position: relative;
+	left: 100px;
+}
