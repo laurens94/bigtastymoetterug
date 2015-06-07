@@ -1,5 +1,5 @@
 # Big Tasty moet terug - Petitiewebsite
-De code achter de petitiewebsite bigtastymoetterug.nl
+__De code achter de petitiewebsite bigtastymoetterug.nl__
 
 ## Doel
 In 2011 startte ik dit project, omdat de enige hamburger die ik bij McDonald's lekker vind (de Big Tasty) van de menukaart was geschrapt. Het doel van het project: zoveel mogelijk hongerige fans verzamelen om de Big Tasty terug op het menu te krijgen!
@@ -24,9 +24,8 @@ Na het plaatsen van dit verhaal op 9gag (http://9gag.com/gag/3652901) hadden nog
 
 `ipn.php` bevat de koppeling met PayPal;
 
-
 `js/fd-slider.js` bevat een HTML5 Input Range polyfill voor het invoeren van het PayPal-donatie bedrag.
-`css/fd-slider.css` bevat de CSS voor deze polyfill.
+`css/fd-slider.css` bevat de CSS voor deze polyfill;
 
 `images/` bevat afbeeldingen voor de site;
 
