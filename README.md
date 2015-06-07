@@ -1,5 +1,6 @@
 # Big Tasty moet terug - Petitiewebsite
 *De code achter de petitiewebsite bigtastymoetterug.nl*
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico"><img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 
 ## Doel
 In 2011 startte ik dit project, omdat de enige hamburger die ik bij McDonald's lekker vind (de Big Tasty) van de menukaart was geschrapt. Het doel van het project: zoveel mogelijk hongerige fans verzamelen om de Big Tasty terug op het menu te krijgen!
@@ -19,19 +20,26 @@ Na het plaatsen van dit verhaal op 9gag (http://9gag.com/gag/3652901) hadden nog
 <img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `bevestig.php` kijkt of het e-mailadres en random-ID in de URL (die de gebruiker in een bevestigings e-mail ontvangt) overeenkomen in de database. Als dit het geval is, krijgt het e-mailadres in de database de status confirmed;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `sign.php` plaatst e-mailadressen in de database;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `send.php` werd gebruikt om massaal e-mails te verzenden toen de Big Tasty terug was;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `remove.php` liet mensen zich uitschrijven voor e-mails;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `ipn.php` bevat de koppeling met PayPal;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `js/fd-slider.js` bevat een HTML5 Input Range polyfill voor het invoeren van het PayPal-donatie bedrag.
 `css/fd-slider.css` bevat de CSS voor deze polyfill;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `images/` bevat afbeeldingen voor de site;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `email/` bevat afbeeldingen voor de validatie e-mail;
 
 ## Preview
