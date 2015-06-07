@@ -42,11 +42,11 @@ Na het plaatsen van dit verhaal op 9gag (http://9gag.com/gag/3652901) hadden nog
 ## Preview
 De website is inmiddels offline, maar hier kun je zien hoe het er uit zag:
 
-**De website toen die gelanceerd werd**
+**De website toen die gelanceerd werd:**
 ![De website toen die gelanceerd werd](https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/previews/bigtastymoetterug-1.png "De website toen die gelanceerd werd")
 
-**De tweede versie van de website**
+**De tweede versie van de website:**
 ![De tweede versie van de website](https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/previews/bigtastymoetterug-2.png "De tweede versie van de website")
 
-**De website toen de petitie gesloten was**
+**De website toen de petitie gesloten was:**
 ![De website toen de petitie gesloten was](https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/previews/bigtastymoetterug-3.png "De website toen de petitie gesloten was")
