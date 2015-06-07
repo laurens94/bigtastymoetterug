@@ -1,5 +1,4 @@
 # Big Tasty moet terug - Petitiewebsite
-<img align="right" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 *De code achter de petitiewebsite bigtastymoetterug.nl*
 
 ## Doel
@@ -11,10 +10,13 @@ Na het plaatsen van dit verhaal op 9gag (http://9gag.com/gag/3652901) hadden nog
 
 ## Code
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `config.php` en `connect.php` bevatten de inloggegevens voor de database;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `ajax.js` en `boo.php` zorgen ervoor dat de teller met het aantal bevestigde e-mailadressen elke 5 seconden herladen wordt;
 
+<img align="left" height="30" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 `bevestig.php` kijkt of het e-mailadres en random-ID in de URL (die de gebruiker in een bevestigings e-mail ontvangt) overeenkomen in de database. Als dit het geval is, krijgt het e-mailadres in de database de status confirmed;
 
 `sign.php` plaatst e-mailadressen in de database;
