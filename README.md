@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
+<img align="right" src="https://raw.githubusercontent.com/laurensbruijn/bigtastymoetterug/master/favicon.ico">
 # Big Tasty moet terug - Petitiewebsite
 *De code achter de petitiewebsite bigtastymoetterug.nl*
 
