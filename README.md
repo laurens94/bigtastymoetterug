@@ -26,7 +26,6 @@ Na het plaatsen van dit verhaal op 9gag (http://9gag.com/gag/3652901) hadden nog
 
 
 `js/fd-slider.js` bevat een HTML5 Input Range polyfill voor het invoeren van het PayPal-donatie bedrag;
-
 `css/fd-slider.css` bevat de CSS voor deze polyfill;
 
 `images/` bevat afbeeldingen voor de site;
