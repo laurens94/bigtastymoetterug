@@ -1,5 +1,5 @@
 # Big Tasty moet terug - Petitiewebsite
-__De code achter de petitiewebsite bigtastymoetterug.nl__
+*De code achter de petitiewebsite bigtastymoetterug.nl*
 
 ## Doel
 In 2011 startte ik dit project, omdat de enige hamburger die ik bij McDonald's lekker vind (de Big Tasty) van de menukaart was geschrapt. Het doel van het project: zoveel mogelijk hongerige fans verzamelen om de Big Tasty terug op het menu te krijgen!
